@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8faec35144280c146ac2395f7d7187de, type: 3}
   m_Name: BrushStrokes
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   settings:
     renderPassEvent: 500
     material: {fileID: 2100000, guid: 69fe9e3dcb139534b9a5de77bb6211cb, type: 2}

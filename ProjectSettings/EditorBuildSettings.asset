@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Lab Scene 1.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 47f3a4d7c244eb24b9d3dd116b1b4696
+  - enabled: 1
+    path: Assets/Scenes/JapaneseTeaHouse.unity
+    guid: cec1e80a8f6c2dd479869dfa3fa71784
+  - enabled: 1
+    path: Assets/Scenes/PlantNursery.unity
+    guid: 15200baa5d73ca44ba50bcc1a2ec6e33
   m_configObjects: {}

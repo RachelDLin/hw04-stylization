@@ -5,7 +5,7 @@ using UnityEngine.Rendering.Universal;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class Interactivity_Manager : MonoBehaviour
+public class Teahouse_Interactivity_Manager1 : MonoBehaviour
 {
     // public float test_float;
     [SerializeField]

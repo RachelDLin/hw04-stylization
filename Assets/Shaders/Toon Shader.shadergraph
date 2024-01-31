@@ -4927,7 +4927,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "ChooseColor (Custom Function)",
+    "m_Name": "ChooseColor1 (Custom Function)",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -4979,7 +4979,7 @@
         "m_SerializableColors": []
     },
     "m_SourceType": 0,
-    "m_FunctionName": "ChooseColor",
+    "m_FunctionName": "ChooseColor1",
     "m_FunctionSource": "9c2401c89f3acce4fbc7d5b66a67225b",
     "m_FunctionBody": "Enter function body here..."
 }

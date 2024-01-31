@@ -5,7 +5,7 @@ using UnityEngine.Rendering.Universal;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class Interactivity_Manager : MonoBehaviour
+public class Library_Interactivity_Manager : MonoBehaviour
 {
     // public float test_float;
     [SerializeField]
@@ -39,7 +39,8 @@ public class Interactivity_Manager : MonoBehaviour
         //     Debug.Log(mousePos.y);
         // }
 
-        ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        Vector3 center = new Vector3(Screen.width / 2, Screen.height / 2, 0);
+        ray = Camera.main.ScreenPointToRay(center);
         
         // mouse on object
         if (Physics.Raycast(ray, out hitData, 1000)) {
