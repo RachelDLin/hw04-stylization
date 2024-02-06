@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: pink 1
-  m_Shader: {fileID: -6465566751694194690, guid: e8146c761447f5c4e809f2ff10fe0695,
+  m_Shader: {fileID: -6465566751694194690, guid: a26ba8f5af869504296268edbdfb0219,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

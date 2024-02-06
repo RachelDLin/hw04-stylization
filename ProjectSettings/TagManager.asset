@@ -3,7 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EnterTeaHouseLevel
+  - EnterNurseryLevel
+  - Lantern
+  - LanternLight
+  - EnterLibraryLevel
+  - SakuraVaseWPlant
+  - SakuraVase
+  - Door
+  - PottedPlantsWoPlant
+  - PottedPlants
+  - Window
+  - CurtainsOpen
+  - CurtainsClosed
+  - WindowNoShadow
+  - PottedPlantsMoved
+  - DoorNoShadow
+  - EndDoor
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -11,7 +29,7 @@ TagManager:
   - No Normal
   - Water
   - UI
-  - 
+  - NoPost
   - 
   - 
   - 

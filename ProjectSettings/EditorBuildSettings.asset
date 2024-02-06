@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Lab Scene 1.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 514c0531e9d911840bcde5124c916f74
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 47f3a4d7c244eb24b9d3dd116b1b4696
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 9619aa721b647f44f9676c868d3048ab
+  - enabled: 1
+    path: Assets/Scenes/LossScreen.unity
+    guid: ea9e33e5edf7e4545aafee5b1dba911e
   m_configObjects: {}

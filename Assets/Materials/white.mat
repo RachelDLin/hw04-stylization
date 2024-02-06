@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: white
-  m_Shader: {fileID: -6465566751694194690, guid: e8146c761447f5c4e809f2ff10fe0695,
+  m_Shader: {fileID: -6465566751694194690, guid: a26ba8f5af869504296268edbdfb0219,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -142,10 +142,10 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Highlight: {r: 0.9716981, g: 0.96390617, b: 0.9405304, a: 0}
-    - _Midtone: {r: 0.9528302, g: 0.9305943, b: 0.86833394, a: 0}
+    - _Highlight: {r: 0.9716981, g: 0.9716981, b: 0.9716981, a: 0}
+    - _Midtone: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 0}
     - _Ramped_Diffuse_Values: {r: 0.2, g: 0.4, b: 1, a: 0}
-    - _Shadow: {r: 0.8679245, g: 0.8485804, b: 0.7991456, a: 0}
+    - _Shadow: {r: 0.8207547, g: 0.8207547, b: 0.8207547, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &7628855902782416339
